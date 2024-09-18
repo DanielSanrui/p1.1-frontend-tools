@@ -71,21 +71,21 @@ Ennumerate and explain each one of the files included in this repo.
    I use the technique of External javascript that allows me to include JavaScript from an external file using the script tag with the src attribute.
 
 5.  **Launch `index.html` in Live Server and check that the script is running. Click right button and select inspect to show the developer tools and take a look on the console.**
-[JS](imagenes/hl%20doc.png)
-[Console](imagenes/hl%20cons.png)
+![JS](imagenes/hl%20doc.png)
+![Console](imagenes/hl%20cons.png)
     
 1.  **Change some message in the JS code and sava changes. You can check that Live Server refreshes the web page.**
-[Change JS](imagenes/hl%20doc%20by%20dn.png)
-[Change Console](imagenes/hl%20consss.png)
+![Change JS](imagenes/hl%20doc%20by%20dn.png)
+![Change Console](imagenes/hl%20consss.png)
 
 ### Create a simple form with Bootstrap 4. 
 
 13. **At this point, we are going to create a page called `form.html` starting from the `Bs5-$` template provided by the Bootstrap extension we added. What files does this template import in the html by default?**
     A header, main and footer
 14. **Create a `<div>`with the class `.container` to wrap all the sections in the web page**
-  [Container](imagenes/div%20container.png)
+  ![Container](imagenes/div%20container.png)
 1.  **Add a standard navigation bar inside the nav area using the `bs5-navbar-standard` snippet inside the container**
-    [Container](imagenes/navbar.png)
+    ![Container](imagenes/navbar.png)
 2.  **Inside the main area create a form using Bootstrap to collect data from a new user who wants to register at an academy that offers courses. We can copy code from [Bootstrap Documentation](https://getbootstrap.com/docs/5.0/forms/overview/)**. 
 
 ### Install Git, and upload your project to GitHub
@@ -93,13 +93,15 @@ Ennumerate and explain each one of the files included in this repo.
 17. **Install [git](https://git-scm.com/) in your computer**.
     
 18. **Init the git project**
-    [Git Init](imagenes/git%20init.png)
+    ![Git Init](imagenes/git%20init.png)
 19. **Log in to your GitHub account provided by IES Azarquiel**
     
 20. **Follow the teacher on GitHub at the following link: [https://github.com/jeatzr/](https://github.com/jeatzr/)**
-    [Teacher](imagenes/je.png)
+    ![Teacher](imagenes/je.png)
 21. **Create a new empty project on GitHub named `p1.1-frontend-tools`.**
     
 22. **Follow the instructions in the command line provided by GitHub to add your files, create the first commit and push it. Notice that in out case we have to add all files to the staged area with `git add .`, not just`git add README.md`** 
-    
+    ![Git Commit](imagenes/commit.png)
+    ![Subir a Git Hub](imagenes/subir%20a%20github.png)
 23. **To finish, submit the link of your GH repo to the task in our Classroom.**
+    [p1.1-frontend-tools](https://github.com/DanielSanrui/p1.1-frontend-tools)
